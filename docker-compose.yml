@@ -20,7 +20,7 @@ services:
     depends_on:
       - web
     environment:
-      - LOGIN_URL=http://web/backdoor2bot_dont_delete.php
+      - BACKDOOR_URL=http://web/backdoor2bot_dont_delete.php
       - ADMIN_URL=http://web/submit_1bce5f764c10b1c3b7e2bf835cf31247/index.php
       - HOST=web
       - REFERER_URL=http://web/admin.php
