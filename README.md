@@ -16,7 +16,7 @@
 ## 启动
 
 	docker-compose up -d
-	open https://www.zhaoj.in/read-6100.html
+	open http://127.0.0.1:8083/
 
 ## WriteUp
 
