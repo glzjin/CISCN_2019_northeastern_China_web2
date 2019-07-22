@@ -5,22 +5,22 @@
 - **2019 CISCN 2019 华东北 Web2**
 
 ## 感谢
-- Pdsdt 和 菠萝吹雪供题和提供帮助，能让我正确复现这个题目。
-- 出题人：5am3 师傅
+- 出题人：5am3 师傅 供题
+- Pdsdt 和 菠萝吹雪 师傅提供帮助
 
 ## 考点
 
-- Redis 弱密码
-- Python 反序列化
+- 储存型 XSS 以及过滤绕过
+- SQL 注入
 
 ## 启动
 
 	docker-compose up -d
-	open http://127.0.0.1:8083/
+	open https://www.zhaoj.in/read-6100.html
 
-## WriteUp & Exp
+## WriteUp
 
-exp 文件夹自取。
+[https://www.zhaoj.in/read-6100.html](https://www.zhaoj.in/read-6100.html)
 
 ## 版权
 
